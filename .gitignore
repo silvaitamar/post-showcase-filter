@@ -1,0 +1,28 @@
+# Arquivos gerados
+*.log
+*.pot
+*.mo
+*.po
+*.mo.*
+
+# Dependências gerenciadas por gerenciadores de pacotes (ex: Composer, NPM)
+/vendor/
+/node_modules/
+
+# Arquivos de build ou assets compilados
+#/dist/
+#/build/
+#/assets/
+
+# Arquivos de IDE ou editor de texto específicos
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.komodotools
+*.tmproj
+Thumbs.db
+.DS_Store
+
+# Outros arquivos ou diretórios personalizados que você deseja ignorar
